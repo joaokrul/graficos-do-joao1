@@ -15,7 +15,8 @@ async function quantidadeUsuariosPorRede() {
             marker: {
                 color: getCSS('--primary-color')
             }
-        } 
+        }
+    ]
 
     const laytout = {
         plot_bgcolor: getCSS('--bg-color'),
