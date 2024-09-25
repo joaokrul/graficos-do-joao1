@@ -15,14 +15,13 @@ async function quantidadeUsuariosPorRede() {
             marker: {
                 color: getCSS('--primary-color')
             }
-        }
-    ]
+        } 
 
     const laytout = {
         plot_bgcolor: getCSS('--bg-color'),
         paper_bgcolor: getCSS('--bg-color'),
         title: {
-            text: 'Redes sociais com mais usuários',
+            text: 'Dados de adolecentes que usam instagram',
             x: 0,
             font: {
                 color: getCSS('--primary-color'),
