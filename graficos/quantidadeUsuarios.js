@@ -44,7 +44,11 @@ async function quantidadeUsuariosPorRede() {
             title: {
                 text: 'Bilhões de usuários ativos',
                 font: {
-                    color: getCSS('--secondary-color')
+                    color: getCSS('--primary-color')
+                }
+            }
+        ]
+         color: getCSS('--secondary-color')
                 }
             }
         }
